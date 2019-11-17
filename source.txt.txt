@@ -1,3 +1,5 @@
 New commited source file
 
 Changes in branch-1
+
+Changes in branch-1 after pull-request but before merge
